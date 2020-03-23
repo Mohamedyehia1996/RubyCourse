@@ -1,5 +1,5 @@
-puts "Simple calculator"
-20.times{print "--"}
+puts "Simple calculator version 1"
+20.times{print "-*-"}
 puts "Enter first number "
 first_number = gets.chomp
 puts "Enter Second number "
